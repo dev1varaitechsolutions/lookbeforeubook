@@ -1,2 +1,2 @@
 # lookbeforeubook
-code foe lookbeforeubook.in
+code for lookbeforeubook.in
